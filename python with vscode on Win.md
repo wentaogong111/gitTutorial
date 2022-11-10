@@ -6,4 +6,5 @@
  4. ['Conda' is not recognized as internal or external command](https://stackoverflow.com/questions/44515769/conda-is-not-recognized-as-internal-or-external-command)
  5. [Basic commands for command prompt](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/)
  6. [Install Miniconda (Python) with Jupyter Notebook and Setting Up Virtual Environments on Windows 10](https://www.youtube.com/watch?v=XCvgyvBFjyM)
- 7. 
+ 7. [Install Miniconda (Python) with Jupyter Notebook and Setting Up Virtual Environments on Windows 10](https://www.youtube.com/watch?v=XCvgyvBFjyM)
+ 8. 
